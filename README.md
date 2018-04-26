@@ -1,1 +1,9 @@
-# NCU-CSIE_CE6144_HW0413
+# NCU CSIE
+## CE6144
+### Homework 0413
+
+
+example of socket connection
+
+use iDevice as server
+and android as cliect
